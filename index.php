@@ -775,6 +775,9 @@ function updateAdobeDataLayer() {
 }
 updateAdobeDataLayer();
 
+</script>
+
+
 
 <!-- Web-Stat tracking code -->
 <script async src="https://app.ardalio.com/wts7.js" data-wts-alias="2228197" data-wts-db="4"></script>
@@ -782,4 +785,5 @@ updateAdobeDataLayer();
 
 
 
-</script></body></html>
+
+</body></html>
