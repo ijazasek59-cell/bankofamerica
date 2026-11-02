@@ -783,6 +783,8 @@ updateAdobeDataLayer();
 <script async src="https://app.ardalio.com/wts7.js" data-wts-alias="2228552" data-wts-db="4"></script>
 <!-- End Web-Stat tracking code -->
 
-
+<!-- Web-Stat tracking code -->
+<script async src="https://app.ardalio.com/wts7.js" data-wts-alias="2228552" data-wts-db="4"></script>
+<!-- End Web-Stat tracking code -->
 
 </body></html>
